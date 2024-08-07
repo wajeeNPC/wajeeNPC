@@ -4,6 +4,8 @@ greeting : "Welcome fellow traveler 🤗",
 <br>.env : "It was me who merged the code 🤫"</br>
 })
 
+console.log(data)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayeed-wajee) 
