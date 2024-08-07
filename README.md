@@ -1,12 +1,12 @@
-const [data,setData] = useState({
-<br>name : "Shaheed wajee 😜",</br>
+// A Journey with Code
 
-<br>greeting : "Welcome fellow traveler 🤗",</br>
+const [data, setData] = useState({
+  name: "Shaheed Wajee 😜",
+  greeting: "Welcome, fellow traveler 🤗",
+  secret: "It was me who merged the code 🤫"
+});
 
-<br>.env : "It was me who merged the code 🤫"</br>
-})
-
-console.log(data)
+console.log(data);
 
 
 ## 🌐 Socials:
