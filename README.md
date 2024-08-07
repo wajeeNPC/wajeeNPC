@@ -1,6 +1,6 @@
 const [data,setData] = useState({
 <br>name:"Shaheed wajee 😜",</br>
-<br>greeting:"Welcome fellow traveler 🤗",</br>
+greeting:"Welcome fellow traveler 🤗",
 <br>secret:"It was me who merged the code 🤫"</br>
 })
 
