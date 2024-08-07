@@ -1,8 +1,11 @@
 // A Journey with Code
 
 const [data, setData] = useState({
+  
   name: "Shaheed Wajee 😜",
+  
   greeting: "Welcome, fellow traveler 🤗",
+  
   secret: "It was me who merged the code 🤫"
 });
 
