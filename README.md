@@ -1,6 +1,8 @@
-# 💫 About Me:
-🐱‍💻I am shaheed wajee.<br>🎓I am currently studying at slIIt undergraduate(Bsc.hons . software engineering).<br>⚽Played soccer during school life.<br>💻I am currently learning and working on frontend-End development.<br>🤞loves to learn new skills<br>
-welcome
+const [data,setData] = useState({
+name:"Shaheed wajee 😜",
+greeting:"Welcome fellow traveler 🤗",
+secret:"It was me who merged the code 🤫"
+})
 
 
 ## 🌐 Socials:
